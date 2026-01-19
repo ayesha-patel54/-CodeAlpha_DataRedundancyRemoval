@@ -128,7 +128,7 @@ Watch the complete project demonstration: [YouTube Link Here]
 
 ## 👨‍💻 Author
 
-**[Your Name Here]**  
+Ayesha Patel
 CodeAlpha Cloud Computing Internship  
 Task: Data Redundancy Removal System
 
@@ -146,5 +146,6 @@ This project was created as part of the CodeAlpha Internship Program.
 
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
+
 
 **Created with ❤️ for CodeAlpha Internship**
